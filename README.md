@@ -1,27 +1,28 @@
 # Grocery Project Suite
 
-A portfolio of Java projects covering grocery-related software and analytics.
+A Java-based portfolio focused on grocery management and spending analytics.
+
+## Overview
+This project suite brings together multiple Java applications related to grocery operations and data analysis. The work demonstrates backend architecture, business logic implementation, and integration with data and messaging systems.
 
 ## Projects
+- Groceries
+  - Java project for grocery-related functionality
+  - https://github.com/KlaudiaTrzaska/Groceries
 
-### Grocery spending analytics
-A grocery spending analytics service built with Spring Boot, Amazon SQS, and PostgreSQL.
+- PrizeForClient
+  - Java project
+  - https://github.com/KlaudiaTrzaska/PrizeForClient
 
-[View the analytics repository](https://github.com/KlaudiaTrzaska/analytics)
-
-### Groceries
-A Java project.
-
-[View the Groceries repository](https://github.com/KlaudiaTrzaska/Groceries)
-
-### PrizeForClient
-A Java project.
-
-[View the PrizeForClient repository](https://github.com/KlaudiaTrzaska/PrizeForClient)
+- Analytics
+  - Grocery spending analytics service built with Spring Boot, Amazon SQS, and PostgreSQL
+  - https://github.com/KlaudiaTrzaska/analytics
 
 ## Technologies
-
 - Java
 - Spring Boot
-- Amazon SQS
 - PostgreSQL
+- Amazon SQS
+
+## Summary
+This portfolio showcases experience in Java backend development, data persistence, and cloud-based integration patterns for real-world business solutions.
